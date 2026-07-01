@@ -1,0 +1,44 @@
+*What I learnt from this task:*
+1. Ops under pressure simulation
+2. Ran AI Supply Chain Control Tower prompt in Claude
+3. Got complete HTML application in one shot
+4. No setup, just open in browser and run
+5. Read the instructions first
+6. Understood the role of a control tower analyst
+7. Monitored incoming operational alerts
+8. Faced real-time issues: stockouts, shipment delays, demand spikes
+9. Prioritized incidents based on urgency
+10. Learned triage: not every fire is equal
+11. Chose the best corrective action
+12. Had to pick between rerouting, expediting, or customer comms
+13. Observed KPI changes after each decision
+14. Watched service level, cost, and lead time move live
+15. Managed multiple alerts simultaneously
+16. True chaos mode. Context switching is hard
+17. Completed the simulation
+18. Reviewed final operational performance dashboard
+19. Got scored on speed, accuracy, and business impact
+20. Replayed the simulation to improve my score
+21. Pattern recognition kicks in after 2-3 runs
+22. Control towers aren’t dashboards. They’re decision engines
+23. One prompt = ops training that Fortune 500s pay for
+
+*Tools used:*
+1. Claude AI
+2. AI Supply Chain Control Tower prompt
+3. Set effort level to Low
+4. Used for HTML app generation
+5. Solution video
+6. Watched for walkthrough and context
+7. Browser
+8. Open and run generated HTML application
+9. Test incident handling and KPI impact
+10. Git + GitHub
+11. Created Day31 folder
+12. Created day31.md file
+13. Uploaded HTML file and screenshots
+14. Commit and push changes
+15. Screenshot tool
+16. Capture incoming alerts screen
+17. Capture decision options
+18. Capture final performance dashboard.
